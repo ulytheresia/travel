@@ -74,6 +74,7 @@
                 <div class="panel panel-default">
                     <div class="panel-heading">
                         <h4>Your Data</h4>
+                        <p>This just for example</p>
                     </div>
                     <div class="panel-body">
                         <p>Full Name: {{ userData.fullname }}</p>
